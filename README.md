@@ -1,7 +1,13 @@
 rhel-tesseract-opencv-jupyter
 -----------------------------
 
-To get a development environment up and running, simply run:
+#### Development
+
+To get a development environment up and running:
+
+1. Create Red Hat account [link](https://www.redhat.com/wapps/ugc/register.html?_flowId=register-flow&_flowExecutionKey=e1s1)
+2. Login to Red Hat docker registry with your credentials: `docker login registry.redhat.io`
+3. Run:
 
 ```bash
 docker-compose up
