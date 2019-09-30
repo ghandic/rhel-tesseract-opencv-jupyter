@@ -1,0 +1,8 @@
+ipython
+ipywidgets
+notebook
+nbformat
+nbconvert
+jupyter
+jupyter_contrib_nbextensions
+widgetsnbextension
